@@ -1,13 +1,17 @@
-# Step 1: Read inputs as integers
+
 amount1 = int(input("Enter amount1 (in cent): ").strip())
 amount2 = int(input("Enter amount2 (in cent): ").strip())
 
-# Step 2: Calculate total amount in cents
 total_cents = amount1 + amount2
 
-# Step 3: Convert to euros and cents
-euros = total_cents // 100  # Integer division to get euro part
-cents = total_cents % 100    # Modulus to get remaining cents
+euros = total_cents // 100  
+cents = total_cents % 100    
 
-# Step 4: Print the result in human-readable format
-print(f"The sum of these is €{euros}.{cents:02d}")  # Format cents with 2 digits
+print(f"The sum of these is €{euros}.{cents:02d}")
+
+#I had to do a bit of research to understand how to print it with 2 decimal places.
+#I found the :02d format specifier, which means that the number will be printed with at least 2 digits,
+#and if it has less than 2 digits, it will be padded with zeros.
+
+#I also had to use // to get the integer division, and % to get the remainder.
+#I then used f-strings to format the output.
