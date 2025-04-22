@@ -141,7 +141,55 @@ Checks the current day and prints whether it's a weekday or weekend.
 python weekday.py
 ```
 
+---
 
+## References
+
+- Bishop, M. (2003). Computer security: Art and science. Addison-Wesley.
+
+- Downey, A. (2015). Think Python: How to Think Like a Computer Scientist (2nd ed.). O’Reilly Media.
+
+- GitHub. (n.d.). Creating a new repository. GitHub Docs. Retrieved from https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
+
+- Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., ... & Oliphant, T. E. (2020). Array programming with NumPy. Nature, 585(7825), 357–362. https://doi.org/10.1038/s41586-020-2649-2
+
+- Hildebrand, F. B. (1987). Introduction to Numerical Analysis. Dover Publications.
+
+- Hunter, J. D. (2007). Matplotlib: A 2D graphics environment. Computing in Science & Engineering, 9(3), 90–95. https://doi.org/10.1109/MCSE.2007.55
+
+- Lagarias, J. C. (2006). The 3x+1 Problem: An Annotated Bibliography (1963–1999). arXiv preprint arXiv:math/0309224. https://arxiv.org/abs/math/0309224
+
+- Newton's method. (n.d.). In Wikipedia. Retrieved from https://en.wikipedia.org/wiki/Newton%27s_method
+
+- OWASP Foundation. (n.d.). OWASP Top Ten. Retrieved from https://owasp.org/www-project-top-ten/
+
+- Python Software Foundation. (2023). Python Language Reference, version 3.11. Retrieved from https://docs.python.org/3/reference/
+
+- Python Software Foundation. (n.d.). datetime — Basic date and time types. Python 3.12 Documentation. Retrieved from https://docs.python.org/3/library/datetime.html
+
+- Python Software Foundation. (n.d.). datetime.date.weekday() method. Python 3.12 Documentation. Retrieved from https://docs.python.org/3/library/datetime.html#datetime.date.weekday
+
+- Python Software Foundation. (n.d.). Errors and exceptions. Python 3 documentation. Retrieved from https://docs.python.org/3/tutorial/errors.html
+
+- Python Software Foundation. (n.d.). Formatted string literals (f-strings). Retrieved from https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+
+- Python Software Foundation. (n.d.). open() — Built-in function. Python 3 documentation. Retrieved from https://docs.python.org/3/library/functions.html#open
+
+- Python Software Foundation. (n.d.). str.count() — String method. Python 3 documentation. Retrieved from https://docs.python.org/3/library/stdtypes.html#str.count
+
+- Python Software Foundation. (n.d.). sys — System-specific parameters and functions. Python 3 documentation. Retrieved from https://docs.python.org/3/library/sys.html
+
+- Python Software Foundation. (n.d.). What does if name == 'main' do?. Python FAQ. Retrieved from https://docs.python.org/3/library/main.html
+
+- Sastry, S. S. (2003). Numerical Methods: A Practical Approach. Prentice Hall.
+
+- Sedgewick, R., & Wayne, K. (2016). Introduction to Programming in Python: An Interdisciplinary Approach. Addison-Wesley.
+
+- Stallings, W. (2018). Cryptography and Network Security: Principles and Practice (7th ed.). Pearson.
+
+- van Rossum, G., Warsaw, B., & Coghlan, N. (2001). PEP 8 – Style guide for Python code. Python Enhancement Proposals. Retrieved from https://peps.python.org/pep-0008/
+
+- Zelle, J. (2016). Python Programming: An Introduction to Computer Science (3rd ed.). Franklin, Beedle & Associates Inc.
 
 
  
